@@ -21,6 +21,10 @@ const modelFile = [
     {
         name: 'Kokoro-Amamiya',
         url: 'models/mmd/『天宮こころ(Kokoro Amamiya)』/『天宮こころ(Kokoro Amamiya)』.pmx'
+    },
+    {
+        name: '物述有栖',
+        url: 'models/mmd/るいのれ式物述有栖_配布用フォルダ/物述有栖.pmx'
     }
 ]
 const vpdFiles = [
